@@ -50,5 +50,5 @@ N/A
 
 ## Links
 
-[GitHub](https://github.com/Josly025/bootstrap_port.io.git)
-[GitHub Pages](https://josly025.github.io/bootstrap_port.io/.)
+[GitHub](https://github.com/Josly025/work_scheduler.io.git)
+[GitHub Pages](https://josly025.github.io/work_scheduler.io/.)
